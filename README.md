@@ -1,4 +1,4 @@
-#iTzFizz
+# iTzFizz
 
 # Scroll-Driven Hero Section Animation
 
